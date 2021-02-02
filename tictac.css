@@ -1,0 +1,32 @@
+
+.bold {
+	font-weight:600;
+}
+
+.pointer:hover {
+    background-color:blue;
+}
+
+.pointer {
+    cursor: pointer;
+    margin: 30px;
+    border: 1px solid blue;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    display: inline-table;
+    padding: 8px;
+    font-size: 60px;
+}
+
+p{
+    font-size: 50px;
+    display: inline;
+}
+button{
+    height: 30px;
+    width: 50px;
+    color: red;
+    background-color:yellow;
+    margin-left: 30px;
+}
